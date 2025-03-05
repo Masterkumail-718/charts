@@ -1,10 +1,9 @@
 {
-  "visualization": {
-    "id": "your-chart-id",
-    "label": "Rounded Column Chart",
-    "config": {
-      "data": {},
-      "style": {}
+  "visualizations": [
+    {
+      "id": "my-chart",
+      "version": "1",
+      "gcsPath": "https://masterkumail-718.github.io/charts/my-chart"
     }
-  }
+  ]
 }
