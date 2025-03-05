@@ -1,0 +1,10 @@
+{
+  "visualization": {
+    "id": "your-chart-id",
+    "label": "Rounded Column Chart",
+    "config": {
+      "data": {},
+      "style": {}
+    }
+  }
+}
