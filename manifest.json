@@ -1,12 +1,10 @@
 {
   "visualization": {
-    "id": "roundedColumnsViz",
-    "label": "Rounded Columns Chart",
-    "description": "A bar chart with rounded columns",
-    "author": "Your Name",
-    "version": "1.0",
-    "scripts": {
-      "main": "https://your-hosting.com/roundedColumns.js"
+    "id": "your-chart-id",
+    "label": "Rounded Column Chart",
+    "config": {
+      "data": {},
+      "style": {}
     }
   }
 }
